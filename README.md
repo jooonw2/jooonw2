@@ -3,24 +3,24 @@
 <h3 align="center">🚀 Sistemas y Ciberseguridad</h3>
 
 <p align="center">
-  Soy un profesional de sistemas y ciberseguridad, siempre en búsqueda de mejorar mis habilidades y aprender nuevas tecnologías. Con una pasión por la seguridad informática y la infraestructura de sistemas, trabajo para asegurar entornos confiables, estables y escalables. Estoy en constante aprendizaje para adaptarme a las nuevas amenazas y tecnologías en el campo de la ciberseguridad.
+  Soy un profesional de los sistemas y la ciberseguridad, siempre buscando mejorar mis habilidades y aprender nuevas tecnologías. Con una pasión por la seguridad informática y los sistemas, trabajo para asegurar entornos confiables, estables y escalables.
 </p>
 
 ---
 
 ### 💬 Sobre mí
 - 🔭 Actualmente trabajando en **mejorar la seguridad y estabilidad de infraestructuras IT**.
-- 🌱 Aprendiendo sobre **ciberseguridad ofensiva** y profundizando en **seguridad en la nube**.
-- 💡 Interesado en la automatización de infraestructuras y en la mejora de las prácticas de seguridad en todos los niveles.
+- 🌱 Aprendiendo sobre **ciberseguridad ofensiva**.
+- 💡 Interesado en la automatización de las infraestructuras y en la mejora de las prácticas de seguridad en todos los niveles.
 - 💬 ¡No dudes en contactarme si quieres compartir ideas, aprender juntos o colaborar en un proyecto!
 
 ---
 
 ### 🌐 Conecta conmigo:
 <p align="left">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://twitter.com/tu-usuario" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="40" height="40"/></a>
-  <a href="mailto:tu-email@example.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" width="40" height="40"/></a>
+  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="40" height="40"/></a>
+  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" width="40" height="40"/></a>
 </p>
 
 ---
@@ -41,9 +41,3 @@
   <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pfsense/pfsense-original-wordmark.svg" alt="pfSense" width="40" height="40"/> </a>
 </p>
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
