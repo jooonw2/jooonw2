@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Sistemas y Ciberseguridad</h3>
 
 <p align="center">
-  Soy un profesional de los sistemas y la ciberseguridad, siempre buscando mejorar mis habilidades y aprender nuevas tecnologías. Con una pasión por la seguridad informática y los sistemas, trabajo para asegurar entornos confiables, estables y escalables.
+  Administrador de sistemas y especialista en ciberseguridad, siempre buscando mejorar mis habilidades y aprender nuevas tecnologías. Con una pasión por la seguridad informática y los sistemas, trabajo para asegurar entornos confiables, estables y escalables.
 </p>
 
 ---
