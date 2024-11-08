@@ -16,7 +16,7 @@
 
 ---
 
-### 🌐 Conecta conmigo:
+### 🌐 Contacto
 <p align="left">
   <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
   <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="40" height="40"/></a>
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Herramientas y Tecnologías
+### 🛠️ Herramientas
 <p align="left"> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> </a> 
