@@ -9,7 +9,7 @@
 ---
 
 ### 💬 Sobre mí
-- 🔭 Actualmente trabajando en **mejorar la seguridad y estabilidad de infraestructuras IT**.
+- 🔭 Actualmente trabajando en **mejorar la seguridad de las infraestructuras IT**.
 - 🌱 Aprendiendo sobre **ciberseguridad ofensiva**.
 - 💡 Interesado en la automatización de las infraestructuras y en la mejora de las prácticas de seguridad en todos los niveles.
 - 💬 ¡No dudes en contactarme si quieres compartir ideas, aprender juntos o colaborar en un proyecto!
