@@ -2,14 +2,11 @@
 
 <h3 align="center">🚀 Sistemas y Ciberseguridad</h3>
 
-<p align="center">
-  Administrador de sistemas y especialista en ciberseguridad, siempre buscando mejorar mis habilidades y aprender nuevas tecnologías. Con una pasión por la seguridad informática y los sistemas, trabajo para asegurar entornos confiables, estables y escalables.
-</p>
 
 ---
 
 ### 💬 Sobre mí
-- 🌱 En constante aprendizaje en el mundo de la informática y la ciberseguridad, explorando nuevas herramientas y técnicas..
+- 🌱 En constante aprendizaje en el mundo de la informática y la ciberseguridad.
 - 💬 ¡No dudes en contactarme si quieres compartir ideas, aprender juntos o colaborar en un proyecto!
 
 ---
