@@ -1,6 +1,15 @@
 ## ¡Hola! 👋
 
-<h3 align="center">🔐 Ciberseguridad | Sistemas | Automatización</h3>
+<h3 align="center">🔐 Ciberseguridad | Automatización | Sistemas</h3>
+
+---
+
+### 💬 Sobre mí
+- 🔐 Actualmente trabajando en sistemas y ciberseguridad.
+- 🛠️ Me gusta trastear con herramientas, hacer mis propios proyectos y aprender cosas nuevas.
+- 💬 ¡Abierto a compartir ideas y colaborar en proyectos!
+
+---
 
 ### 🌐 Contacto
 <p align="left">
