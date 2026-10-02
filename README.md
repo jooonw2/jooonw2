@@ -1,15 +1,6 @@
 ## ¡Hola! 👋
 
-<h3 align="center">🚀 Sistemas y Ciberseguridad</h3>
-
-
----
-
-### 💬 Sobre mí
-- 🌱 En constante aprendizaje en el mundo de la informática y la ciberseguridad.
-- 💬 ¡No dudes en contactarme si quieres compartir ideas, aprender juntos o colaborar en un proyecto!
-
----
+<h3 align="center">🔐 Ciberseguridad | Sistemas | Automatización</h3>
 
 ### 🌐 Contacto
 <p align="left">
